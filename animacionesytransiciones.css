@@ -1,0 +1,11 @@
+
+
+
+.btn-modern:hover {
+    background-color: red;
+    transform: translateY(-5px);
+    color: violet;
+    transition: 0.4s;
+    text-shadow: 2px 2px #333;
+    
+} 
